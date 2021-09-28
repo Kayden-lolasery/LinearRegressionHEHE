@@ -1,0 +1,7 @@
+LinearRegressionHEHE module
+===========================
+
+.. automodule:: LinearRegressionHEHE
+   :members:
+   :undoc-members:
+   :show-inheritance:
